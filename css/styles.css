@@ -1062,7 +1062,7 @@ html {
 /* =================== EXTRA UTILITIES =================== */
 .text-center { text-align: center !important; }
 .text-uppercase { text-transform: uppercase !important; }
-.text-white { color: #fff !important; }
+.text-white { color: #ffff !important; }
 .text-secondary { color: #1a1a1a !important; }
 .border-0 { border: 0 !important; }
  
